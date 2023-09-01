@@ -7,7 +7,7 @@ plugins {
 publishing {
     publications {
         release(MavenPublication) {
-            groupId = "com.github.com.wamae77"
+            groupId = "com.github.wamae77"
             artifactId = "fingerprint-bio-scanner"
             version = "1.0"
 
